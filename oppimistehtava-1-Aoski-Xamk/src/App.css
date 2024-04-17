@@ -1,0 +1,49 @@
+.App{
+  padding:10px;
+}
+
+button{
+  padding:5px;
+  margin-top:5px;
+  width:145px;
+}
+
+.laatikkoA3 {
+  background-color: red;
+  color:white;
+}
+
+.laatikkoA2 {
+  background-color: orange;
+  color:white;
+}
+
+.laatikkoA1 {
+  background-color: yellow;
+  color:orange;
+}
+
+.laatikko {
+  background-color: lightgreen;
+  color:darkgreen;
+}
+
+.laatikkoY1 {
+  background-color: yellow;
+  color:orange;
+}
+
+.laatikkoY2 {
+  background-color: orange;
+  color:white
+}
+
+.laatikkoY3 {
+  background-color: red;
+  color:white;
+}
+
+.laatikkoY4 {
+  background-color: darkred;
+  color:red;
+}

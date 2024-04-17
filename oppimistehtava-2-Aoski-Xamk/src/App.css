@@ -1,0 +1,32 @@
+input, .nimi, .velka{
+  display:block;
+  float:left;
+  width:400px;
+  height:25px;
+  border: solid 1px grey;
+  padding:10px;
+}
+
+li, ul{
+  list-style-type: none;
+  padding:0;
+}
+li{
+  border:solid 1px grey;
+  padding:5px;
+  height:25px;
+}
+ul{
+  width:49%;
+  float:left;
+}
+.nappi-lisaa{
+  margin-bottom:25px;
+  padding:10px;
+  height:47px;
+}
+.Oinput, .nappi-lisaa, .nappi-poista{
+  margin-left:20px;
+}
+
+

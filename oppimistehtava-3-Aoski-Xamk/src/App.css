@@ -1,0 +1,50 @@
+div{
+  float:left;
+}
+.App{
+  width:1300px;
+}
+.header, .footer{
+  width:100%;
+  height:70px;
+}
+
+.content{
+  width:70%;
+  height:600px;
+}
+
+.kirjautuminen, .ostoskori{
+  width:28%;
+  height:100px;
+  margin-bottom: 70px;
+}
+
+.paidat{
+  height:200px;
+  width:160px;
+  float:left;
+}
+.hinta-tieto{
+  width:50px;
+}
+.paita-div{
+  width:250px;
+  margin-right:30px;
+  margin-left:10px;
+}
+button{
+  float:left;
+  width:160px;
+}
+.esityHinta{
+  text-align: center;
+  width:160px;
+}
+.header, .footer{
+  text-align: center;
+}
+.nappi-kirjaudu{
+  width:100px;
+  margin-top:10px;
+}
